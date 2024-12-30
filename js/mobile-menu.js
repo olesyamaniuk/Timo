@@ -27,10 +27,10 @@ function toggleAnswer(element) {
 
   if (answer.style.display === "none" || answer.style.display === "") {
     answer.style.display = "block";
-    buttonImg.src = "/img/faq/icon close.png"; 
+    buttonImg.src = "/image/faq/Group 35538.png"; 
   } else {
     answer.style.display = "none";
-    buttonImg.src = "/img/faq/icon open.png"; 
+    buttonImg.src = "/image/faq/Group 35539.png"; 
   }
 }
 
